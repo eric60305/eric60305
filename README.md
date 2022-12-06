@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eric60305
+- 👋 Hi, I’m Eric
 - 👀 I’m interested in IoT/Data Analysis /ML/DL
 - 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on ...
