@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric
+- 👋 Hi, I’m Eric. I am a software engineer now
 - 👀 I’m interested in IoT/Data Analysis /ML/DL
 - 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on ...
