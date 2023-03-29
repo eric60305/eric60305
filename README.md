@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eric. I am a software engineer interen now
+- 👋 Hi, I’m Eric. come frome Peking university.I am a software interen now
 - 👀 I’m interested in IoT/Data Analysis /ML/DL
 - 🌱 I’m currently learning C++/Python
 - 💞️ I’m looking to collaborate on ...
