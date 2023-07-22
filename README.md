@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![snake gif](https://github.com/yusixian/yusixian/blob/output/github-contribution-grid-snake.gif)
+[![snake gif]()](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 <!---
 eric60305/eric60305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
